@@ -1,0 +1,7 @@
+.travis.yml
+.vscode
+.pytest_cache
+.gitignore
+.git
+LICENSE
+README.md
