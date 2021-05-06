@@ -11,6 +11,7 @@ djangorestframework = "^3.12.4"
 flake8 = "^3.9.1"
 black = "^21.4b1"
 psycopg2-binary = "^2.8.6"
+coverage = "^5.5"
 
 [tool.poetry.dev-dependencies]
 
